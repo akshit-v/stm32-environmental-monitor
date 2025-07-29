@@ -49,7 +49,7 @@ This project implements a real-time environmental monitoring system using the ST
 | Fan Control       | PA7      |
 | Status LED        | PA5      |
 | I2C (AHT10)       | PB8 (SCL), PB9 (SDA) |
-| LCD Control/Data  | PC0-PC5 or custom-defined |
+| LCD Control/Data  | PB0-PB5 |
 
 ---
 
